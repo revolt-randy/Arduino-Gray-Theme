@@ -12,7 +12,11 @@ There is one problem with this theme, and I can't change it. The line #'s and ba
 # Installation:
 
 ## IDE v 1.8.6 and newer:
-Locate your arduino sketchbook location - From the IDE, choose File -> Preferences. The sketchbook location is the first item in the preferences window, you can use the browse button to open the folder. Once the folder is open, if the directory 'theme' doesn't exsist, then create a new folder called 'theme' in the sketchbook directory. Download the theme-gray.zip file and place it in the new 'theme' directory. Now, close and restart the arduino IDE and choose File -> Preferences. You should now be able to select the new theme from the theme selection dialog. The IDE will need to be restarted again before the change is made.
+- Find your sketchbook folder: File -> Preferences -> Sketchbook location
+- Open the Sketchbook directory/folder and create a new directory called 'theme'
+- Copy the downloaded .zip file to this new 'theme' directory
+- In arduino IDE select: File -> Preferences -> Theme and select the new theme
+- Restart the arduino IDE to use the new theme
 
 
 
