@@ -14,7 +14,8 @@ There is one problem with this theme, and I can't change it. The line #'s and ba
 ## IDE v 1.8.6 and newer:
 - Find your sketchbook folder: File -> Preferences -> Sketchbook location
 - Open the Sketchbook directory/folder and create a new directory called 'theme'
-- Copy the downloaded .zip file to this new 'theme' directory
+- Downlocad 'theme-gray.zip' and move the downloaded .zip file to this new 'theme' directory
+- Restart the arduino IDE
 - In arduino IDE select: File -> Preferences -> Theme and select the new theme
 - Restart the arduino IDE to use the new theme
 
